@@ -203,9 +203,7 @@ body {
     border-radius: 10px;
     background: url('images/LasVegas.jpg') no-repeat center center/cover ;   
 }
-.img  {
-    
-}
+
 .img h1 {
     margin-bottom: 25px;
    
@@ -418,9 +416,6 @@ body {
         padding: 10px 10px;
     }
 
-    .experience {
-        
-    }
     .experience h1 {
         width: 60%;
         font-size: 30px;
